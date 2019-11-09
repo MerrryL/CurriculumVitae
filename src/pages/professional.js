@@ -24,21 +24,21 @@ const Professional= () => (
             </p>
 
             <ListGroup>
-                <Listgroup.Item>
+                <ListGroup.Item>
                     I do my best to be a reassuring presence, through a good presentation, great oral and written communication skills, and putting forward human and civil qualities.
 
-                </Listgroup.Item>
-                <Listgroup.Item>
+                </ListGroup.Item>
+                <ListGroup.Item>
                     I make myself available to the citizens, so I can inform them, help them, or sensitize them to the quirks of community life or security.
 
-                </Listgroup.Item>
-                <Listgroup.Item>
+                </ListGroup.Item>
+                <ListGroup.Item>
                     I keep ears and eyes wide open to anomalies
 
-                </Listgroup.Item>
-                <Listgroup.Item>
+                </ListGroup.Item>
+                <ListGroup.Item>
 
-                </Listgroup.Item>
+                </ListGroup.Item>
             </ListGroup>
 
 
