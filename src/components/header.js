@@ -34,9 +34,11 @@ const Header = ({ siteTitle }) => (
         <Nav.Item><Link to="/summary/">Who am I?</Link></Nav.Item>
         <Nav.Item><Link to="/professional/">Work Experience</Link></Nav.Item>
         <Nav.Item><Link to="/stages/">Stages</Link></Nav.Item>
-        <Nav.Item><Link to="/technologies/">Technologies</Link></Nav.Item>
+        
         <Nav.Item><Link to="/aboutme/">About me</Link></Nav.Item>
+        <Nav.Item><Link to="/technologies/">Tech Stack</Link></Nav.Item>
         <Nav.Item><Link to="/moreaboutme/">Even more</Link></Nav.Item>
+        
         <Nav.Item><Link to="/contact/">Contacts</Link></Nav.Item>
 
 
