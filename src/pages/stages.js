@@ -16,7 +16,9 @@ const Stages= () => (
 
 
         
-            <h3 className="display-5 m-5">TODO</h3>
+            <h3 className="display-5 m-5">Stages</h3>
+
+            
         </Container>
     </Layout>    
 );

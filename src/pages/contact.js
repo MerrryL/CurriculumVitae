@@ -67,6 +67,14 @@ const Contact= () => (
                 </Col>
             </Row>
             <h3 className="display-5 m-5">Anyway ... Thanks for your interest, it means a lot!</h3>
+
+            <h3 className="text-muted">PS: My classmates also have curriculum vitae :</h3>
+
+            <ul>
+                <li><a href="#">Robert Dessoy</a></li>
+                <li><a href="#">LUIGI</a></li>
+                <li><a href="#">Kevin Vanstraceele</a></li>
+            </ul>
         </Container>
     </Layout>    
 );
