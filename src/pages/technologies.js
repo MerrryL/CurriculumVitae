@@ -15,9 +15,17 @@ const Technologies= () => (
         <Container>        
             <h3 className="display-5 m-5">This website was made with the following technologies :</h3>
 
-            <Tabs defaultActiveKey="profile" id="uncontrolled-tab-example">
+            <Tabs defaultActiveKey="Gatsby" id="uncontrolled-tab-example">
+                
+
+                
                 <Tab eventKey="Gatsby" title="Gatsby">
-                    <a href="https://www.gatsbyjs.org/">Gatsby.js</a>
+                    <p>To make this site, I've used <a href="https://www.gatsbyjs.org/">Gatsby.js</a>.<br/>
+
+                    Which is a framework to build fast websites (coz they are server-side rendered) with the core technologies HTML, CSS and React.js
+                    </p>
+                    
+
                     
                 </Tab>
                 <Tab eventKey="React" title="React">
